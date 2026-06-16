@@ -1,0 +1,12 @@
+═══ Server Access Log — ต้นฉบับ (ไม่ถูกแก้ไข) ═══
+
+2024-01-14 23:45:12 | LOGIN  | Badge: TC-4869 | User: gitboss | Door: Main Entrance
+2024-01-14 23:47:03 | ACCESS | Badge: TC-4869 | User: gitboss | Room: SERVER ROOM
+2024-01-14 23:47:15 | READ   | IP: 10.0.0.42  | File: /secrets/employee_records.db
+2024-01-14 23:52:41 | WRITE  | IP: 10.0.0.42  | File: /git/repo/.git/refs/heads/main
+2024-01-14 23:58:00 | LOGOUT | Badge: TC-4869 | User: gitboss | Door: Main Entrance
+
+════════════════════════════════════════════════
+IP 10.0.0.42 = workstation ของ gitboss@techcorp.com
+Badge TC-4869 = ออกให้กับ "นาย GitBoss" เท่านั้น
+════════════════════════════════════════════════
